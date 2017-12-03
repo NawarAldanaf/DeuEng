@@ -1,0 +1,106 @@
+
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">English-German</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_phrases">Phrases</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_colors">Colors</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_numbers">Numbers</string>
+
+    <!-- Category name for the vocabulary words for family [CHAR LIMIT=20] -->
+    <string name="category_family">Family</string>
+
+    <!--English numbers-->
+    <string name="number_one">one</string>
+    <string name="number_two">two</string>
+    <string name="number_three">three</string>
+    <string name="number_four">four</string>
+    <string name="number_five">five</string>
+    <string name="number_six">six</string>
+    <string name="number_seven">seven</string>
+    <string name="number_eight">eight</string>
+    <string name="number_nine">nine</string>
+    <string name="number_ten">ten</string>
+
+    <!--German numbers-->
+    <string name="number_one_ger">Eins</string>
+    <string name="number_two_ger">Zwei</string>
+    <string name="number_three_ger">Drei</string>
+    <string name="number_four_ger">Vier</string>
+    <string name="number_five_ger">Fünf</string>
+    <string name="number_six_ger">Sechs</string>
+    <string name="number_seven_ger">Sieben</string>
+    <string name="number_eight_ger">Acht</string>
+    <string name="number_nine_ger">Neun</string>
+    <string name="number_ten_ger">Zehn</string>
+
+    <!--English phrases-->
+    <string name="phrase_hello">Hello!</string>
+    <string name="phrase_how_are_you">How are you?</string>
+    <string name="phrase_do_u_come_from_europ">Do you come from Europe?</string>
+    <string name="phrase_in_which_hotel_are_you_staying">In which hotel are you staying?</string>
+    <string name="phrase_how_long_have_you_been_here_for">How long have you been here for?</string>
+    <string name="phrase_do_you_like_it_here">Do you like it here?</string>
+    <string name="phrase_please_do_visit_me_sometime">Please do visit me sometime!</string>
+    <string name="phrase_here_is_my_address">Here is my address.</string>
+    <string name="phrase_shall_we_see_each_other_tomorrow">Shall we see each other tomorrow?</string>
+    <string name="phrase_i_am_sorry">I am sorry, but I already have plans.</string>
+    <string name="phrase_bye">Bye!</string>
+
+    <!--German phrases-->
+    <string name="phrase_hello_ger">Guten Tag!</string>
+    <string name="phrase_how_are_you_ger">Wie geht\'s?</string>
+    <string name="phrase_do_u_come_from_europ_ger">Kommen Sie aus Europa?</string>
+    <string name="phrase_in_which_hotel_are_you_staying_ger">In welchem Hotel wohnen Sie?</string>
+    <string name="phrase_how_long_have_you_been_here_for_ger">Wie lange sind Sie schon hier?</string>
+    <string name="phrase_do_you_like_it_here_ger">Gefällt es Ihnen hier?</string>
+    <string name="phrase_please_do_visit_me_sometime_ger">Besuchen Sie mich mal!</string>
+    <string name="phrase_here_is_my_address_ger">Hier ist meine Adresse.</string>
+    <string name="phrase_shall_we_see_each_other_tomorrow_ger">Sehen wir uns morgen?</string>
+    <string name="phrase_i_am_sorry_ger">Tut mir leid. Ich habe schon etwas vor.</string>
+    <string name="phrase_bye_ger">Tschüs!</string>
+
+    <!--English colors-->
+    <string name="color_red">red</string>
+    <string name="color_yellow">yellow</string>
+    <string name="color_green">green</string>
+    <string name="color_gray">gray</string>
+    <string name="color_brown">brown</string>
+    <string name="color_black">black</string>
+    <string name="color_white">white</string>
+
+    <!--German colors-->
+    <string name="color_red_ger">rot</string>
+    <string name="color_yellow_ger">gelb</string>
+    <string name="color_green_ger">grün</string>
+    <string name="color_gray_ger">grau</string>
+    <string name="color_brown_ger">braun</string>
+    <string name="color_black_ger">schwarz</string>
+    <string name="color_white_ger">weiß</string>
+
+    <!--English Family-->
+    <string name="family_father">father</string>
+    <string name="family_mother">mother</string>
+    <string name="family_son">son</string>
+    <string name="family_daughter">daughter</string>
+    <string name="family_brother">brother</string>
+    <string name="family_sister">sister</string>
+    <string name="family_grandmother">grandmother</string>
+    <string name="family_grandfather">grandfather</string>
+
+    <!--German Family-->
+    <string name="family_father_ger">Der Vater</string>
+    <string name="family_mother_ger">Die Mutter</string>
+    <string name="family_son_ger">Der Sohn</string>
+    <string name="family_daughter_ger">Die Tochter</string>
+    <string name="family_brother_ger">Der Bruder</string>
+    <string name="family_sister_ger">Die Schwester</string>
+    <string name="family_grandmother_ger">Die Großmutter</string>
+    <string name="family_grandfather_ger">Der Großvater</string>
+
+</resources>
